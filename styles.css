@@ -37,6 +37,7 @@ body {
 
 .text-below p {
     font-size: 25px; 
+    font-family: cursive;
     color: black; 
     font-weight: bold;
 }
@@ -50,7 +51,7 @@ body {
     padding: 15px 38px;
     border-radius: 30px;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .linkedin-button img {
